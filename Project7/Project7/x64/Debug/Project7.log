@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\step\c++\Project7\Project7\FileName.cpp(73,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project7.vcxproj -> D:\step\c++\Project7\x64\Debug\Project7.exe

@@ -1,0 +1,63 @@
+ID: 12
+Patient: T Y
+Age: 18
+Patient room: 4
+Doctor: doc
+Location: 5fl. 290cab.
+Time: 23:05
+Notes: no com
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ID: 12
+Patient: W R
+Age: 18
+Patient room: 2
+Doctor: ert
+Location: 2fl. 404cab.
+Time: 23:09
+Notes: -
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ID: 34
+Patient: W E
+Age: 13
+Patient room: 3
+Doctor: wer
+Location: 2fl. 303cab.
+Time: 23:15
+Notes: eflefl
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ID: 12
+Patient: e r
+Age: 12
+Patient room: 2
+Doctor: rtt
+Location: 2fl. 34cab.
+Time: 23:22
+Notes: -
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ID: 344
+Patient: t y
+Age: 23
+Patient room: 7
+Doctor: docsss
+Location: 4fl. 54cab.
+Time: 23:25
+Notes: -
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ID: 2
+Patient: w e
+Age: 12
+Patient room: 1
+Doctor: ede
+Location: 2fl. 23cab.
+Time: 23:34
+Notes: -
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ID: 12
+Patient: b r
+Age: 23
+Patient room: 2
+Doctor: rf
+Location: 3fl. 44cab.
+Time: 00:05
+Notes: -
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
